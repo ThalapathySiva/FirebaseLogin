@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoLogin</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">9Dwo2WiEU7SZJvWamKisYGnjD</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">u9zzTHHqArYPEi5AiIkpXSAOBcCDizeygsU1E9n76djDdS1vGr</string>
+</resources>

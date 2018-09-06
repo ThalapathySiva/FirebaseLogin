@@ -23,7 +23,7 @@
         android:onClick="git"
         android:id="@+id/git"
         android:layout_below="@+id/google"
-        android:text="For github"/>
+        android:text="For Instagram"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

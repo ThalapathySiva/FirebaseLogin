@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void git(View view) {
-        Intent intent = new Intent(MainActivity.this,GithubActivity.class);
+        Intent intent = new Intent(MainActivity.this,insta.class);
         startActivity(intent);
 
     }
@@ -82,12 +82,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void hideKeyboard(View view) {
-        final InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
-        if (imm != null) {
-            imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
-        }
-    }
+
 
     public void google(View view) {
         Intent intent = new Intent(MainActivity.this,Google.class);

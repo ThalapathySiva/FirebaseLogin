@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Firebase Authentication</string>
-    <string name="twitter_consumer_key">9Dwo2WiEU7SZJvWamKisYGnjD</string>
-    <string name="twitter_consumer_secret">u9zzTHHqArYPEi5AiIkpXSAOBcCDizeygsU1E9n76djDdS1vGr</string>
+    <string name="app_name">Authentication</string>
+    <string name="twitter_consumer_key">key</string>
+    <string name="twitter_consumer_secret">secret</string>
 
     <string name="label_google_sign_in">Firebase + Google Sign In</string>
     <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
